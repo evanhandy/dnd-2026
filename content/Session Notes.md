@@ -32,4 +32,4 @@ Share [[Anroth Map]] with party
 
 ### Twist/Ending Hook
 
-It is revealed that [[Jane]] secretly belongs to the [[Evil Faction]]!
+It is revealed that [[Jane]] secretly belongs to the [[Evil Faction]]! (hint: password for faction page is 'evil')
