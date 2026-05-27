@@ -1,0 +1,1 @@
+You don't have to bend over as much as tall people, and all downsides can be fixed with a stepladder.
