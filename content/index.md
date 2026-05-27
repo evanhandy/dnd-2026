@@ -1,3 +1,6 @@
+---
+title: Home
+---
 # Welcome
 
 This is a wiki/knowledge base/whatever for planning, tracking, and running my upcoming TTRPG campaign. It uses [Obsidian](https://obsidian.md/) for creating and managing its content and [Quartz](https://quartz.jzhao.xyz/) for uploading it to the internet.
