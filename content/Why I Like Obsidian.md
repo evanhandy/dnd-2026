@@ -1,3 +1,3 @@
 My brain likes writing non-linearly. I like being able to have an idea and then jot it down independent of anything else, while then also being able to add links to [[Insignificant Details About Smallfolk Benefits|things that are totally relevant]]. Obsidian makes this process extremely quick and fun. When I'm writing out an idea and I think of a related idea, I can quickly add a link to it with two keystrokes (which doesn't have to point to an existing note), and then I can come back later and click the link to create the note and fill in its details. I can essentially write/world build/create at the speed of thought.
 
-When I'm feeling more visual, I use the [Obsidian Excalidraw plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) to create [[Campaign-Mindmap.excalidraw|a mindmap]].
+When I'm feeling more visual, I use the [Obsidian Excalidraw plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) to create [[Campaign-Mindmap|a mindmap]].

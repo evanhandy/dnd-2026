@@ -1,3 +1,8 @@
+---
+tags:
+  - creature
+description: Absolutely Horrifying
+---
 Incredibly ugly and annoying.
 
 > [!INFO] To be read on first meeting

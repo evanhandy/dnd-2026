@@ -5,5 +5,7 @@ marker:
     icon: lucide-eye
     colour: "#04adff"
     minZoom: 0
+tags:
+  - location
 ---
 *shhhhhh, nothing to see here*

@@ -1,3 +1,8 @@
+---
+tags:
+  - map
+description: A high-level overview map of the continent of Anroth
+---
 Another cool feature of this setup is interactable maps!
 
 ```base

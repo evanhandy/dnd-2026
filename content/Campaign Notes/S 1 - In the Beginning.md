@@ -1,5 +1,9 @@
-# Session 1
-
+---
+description: The start of our grand adventure!
+tags:
+  - session
+arc: 1 - Darkening Horizons
+---
 ## Key NPCs
 
 - [[Billy]]
@@ -28,7 +32,7 @@ Share [[Anroth Map]] with party
 - Bullet point to follow B
 
 > [!error] Combat Encounter
-> If the party comments on [[Billy]]'s [[Mutant Goat]], they both attack! - See: [[Billy and Goat Encounter]]
+> If the party comments on [[Billy]]'s [[Mutant Goat]], they both attack! - See: [[Billy and the Goat]] (this should hopefully lead to a 404, as I've marked that page to be excluded from the wiki version of my notes)
 
 ### Twist/Ending Hook
 
